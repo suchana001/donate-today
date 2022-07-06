@@ -143,7 +143,7 @@ hr{
     margin-top: 0%;
 }
 .contribute h1{
-    font-size: 32px;
+    font-size: 40px;
     font-weight: 900;
     margin-top: 0%;
     margin-bottom: 0%;
@@ -211,11 +211,12 @@ footer h1{
     color: #FF5959;
     font-size: 40px;
     font-family: 'Lobster', cursive;
-    font-weight: 300;
+    font-weight: 500;
     margin: 0%;
 }
 footer p{
     color: white;
     font-family: 'Manrope', sans-serif;
     font-size: 15px;
+    font-weight: 700;
 }
